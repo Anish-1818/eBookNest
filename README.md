@@ -1,2 +1,8 @@
-# eBookNest
-eBookNest is a modern online bookstore built using the MERN stack (MongoDB, Express, React, Node.js). It provides a seamless and intuitive experience for users to explore and purchase a wide selection of physical and digital books. Designed for book lovers, eBookNest ensures an efficient and enjoyable browsing experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
